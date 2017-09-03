@@ -7,4 +7,5 @@ R - replace score, default: 0, 1, 1, 1 - [Livenstein distance](https://en.wikipe
     ```obj = Midr(1, -1, -1, -1)```
 3. Calculate distance between 2 strings:
     ```obj.global_edit_distance(word1, word2)```
+    or
     ```obj.local_edit_distance(word1, word2)```
