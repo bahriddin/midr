@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1504434820455</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Minor change 2">
+      <created>1504434959997</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1504434959997</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -181,7 +188,8 @@
     <MESSAGE value="readme file created." />
     <MESSAGE value="readme file modified again." />
     <MESSAGE value="Minor change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor change" />
+    <MESSAGE value="Minor change 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor change 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
